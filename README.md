@@ -42,8 +42,11 @@ java BankAccountSystem
 ## 📖 Sample Execution
 
 Welcome to Simple Banking System
+
 Enter Account Holder Name: Eshwari
+
 Enter Account Number: 12345
+
 Enter Initial Balance: 1000
 
 ========= MENU =========
