@@ -102,15 +102,19 @@ Successfully withdrawn 200.0
 3. Withdraw Money
 4. Display Account Details
 5. Exit
-6. 
+   
 ========================
 
 Enter your choice: 4
 
 --- Account Details ---
+
 Account Holder: Eshwari
+
 Account Number: 12345
+
 Balance: 1300.0
+
 -----------------------
 
 ========= MENU =========
