@@ -47,44 +47,56 @@ Enter Account Number: 12345
 Enter Initial Balance: 1000
 
 ========= MENU =========
+
 1. Check Balance
 2. Deposit Money
 3. Withdraw Money
 4. Display Account Details
 5. Exit
+   
 ========================
+
 Enter your choice: 1
 Current Balance: 1000.0
 
 ========= MENU =========
+
 1. Check Balance
 2. Deposit Money
 3. Withdraw Money
 4. Display Account Details
 5. Exit
+   
 ========================
+
 Enter your choice: 2
 Enter amount to deposit: 500
 Successfully deposited 500.0
 
 ========= MENU =========
+
 1. Check Balance
 2. Deposit Money
 3. Withdraw Money
 4. Display Account Details
 5. Exit
+   
 ========================
+
 Enter your choice: 3
 Enter amount to withdraw: 200
 Successfully withdrawn 200.0
 
 ========= MENU =========
+
 1. Check Balance
 2. Deposit Money
 3. Withdraw Money
 4. Display Account Details
 5. Exit
+6. 
 ========================
+
 Enter your choice: 4
 
 --- Account Details ---
@@ -94,16 +106,17 @@ Balance: 1300.0
 -----------------------
 
 ========= MENU =========
+
 1. Check Balance
 2. Deposit Money
 3. Withdraw Money
 4. Display Account Details
 5. Exit
+   
 ========================
+
 Enter your choice: 5
 Thank you for using the banking system!
-
-
 
 
 
