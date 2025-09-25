@@ -14,8 +14,9 @@ It allows users to:
 ## 📂 Project Structure
 
 
-- **BankAccount class** → Handles account operations (deposit, withdraw, balance check, display details).  
-- **BankAccountSystem class** → Contains the `main()` method and provides a menu-driven interface.
+- **BankAccount.class** → Handles account operations (deposit, withdraw, balance check, display details).  
+- **BankAccountSystem.class** → Contains the `main()` method and provides a menu-driven interface.
+- **BankAccountSystem.java** → This is the main program
 
 ---
 
@@ -36,7 +37,10 @@ BankAccount.class
 
 java BankAccountSystem
 
-📖 Sample Execution
+---
+
+## 📖 Sample Execution
+
 Welcome to Simple Banking System
 
 Enter Account Holder Name: Eshwari
@@ -46,13 +50,16 @@ Enter Account Number: 12345
 Enter Initial Balance: 1000
 
 ========= MENU =========
+
 1. Check Balance
 2. Deposit Money
 3. Withdraw Money
 4. Display Account Details
   
 6. Exit
+
 ========================
+
 Enter your choice: 1
 Current Balance: 1000.0
 
