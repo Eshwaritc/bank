@@ -57,6 +57,7 @@ Enter Initial Balance: 1000
 ========================
 
 Enter your choice: 1
+
 Current Balance: 1000.0
 
 ========= MENU =========
@@ -70,7 +71,9 @@ Current Balance: 1000.0
 ========================
 
 Enter your choice: 2
+
 Enter amount to deposit: 500
+
 Successfully deposited 500.0
 
 ========= MENU =========
@@ -84,7 +87,9 @@ Successfully deposited 500.0
 ========================
 
 Enter your choice: 3
+
 Enter amount to withdraw: 200
+
 Successfully withdrawn 200.0
 
 ========= MENU =========
@@ -116,6 +121,7 @@ Balance: 1300.0
 ========================
 
 Enter your choice: 5
+
 Thank you for using the banking system!
 
 
